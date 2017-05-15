@@ -1,4 +1,4 @@
-# spring.flux.sample (for homeaway fellows)
+# spring.flux.sample
 1. git clone https://github.com/dccarlos/spring.security.react.sample.git
 2. cd spring.security.react.sample
 3. mvn spring-boot:run
