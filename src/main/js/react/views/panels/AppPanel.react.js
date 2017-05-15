@@ -39,7 +39,7 @@ let AppPanel = (function () {
                 <div>
                     <Panel>
                         <Button onClick={this.onClickShowLoginModal}>
-                            Show login modal
+                            Show sample modal
                         </Button>
                         <Button onClick={this.onClickExecuteGet}>
                             {this.state.response ? 'Response obtained: ' + JSON.stringify(this.state.response) : 'Click to request an entity'}

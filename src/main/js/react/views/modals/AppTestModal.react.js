@@ -73,7 +73,7 @@ let AppTestModal = (function () {
                         </form>
                     </Modal.Body>
                     <Modal.Footer>
-                        <Button onClick={this.onClickCloseLoginModal}>Close login modal</Button>
+                        <Button onClick={this.onClickCloseLoginModal}>Close sample modal</Button>
                     </Modal.Footer>
                 </Modal>
             );
